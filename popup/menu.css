@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap");
+
+#content {
+    text-align: center;
+    position: relative;
+}
+
+#metalNumber {
+    margin-top: 1%;
+    margin-bottom: 1%;
+    font-family: "Roboto Condensed", sans-serif;
+    font-size: 400%;
+}
+
+#smallCurrencyMetal {
+    margin-top: 1%;
+    font-family: "Roboto Condensed", sans-serif;
+}
+
+#keyNumber {
+    margin-top: 1%;
+    margin-bottom: 1%;
+    font-size: 400%;
+    font-family: "Roboto Condensed", sans-serif;
+}
+
+#smallCurrencyKeys {
+    margin-top: 1%;
+    font-family: "Roboto Condensed", sans-serif;
+}
+
+#currency {
+    display: flex;
+    flex-direction: row;
+}
+
+#metal {
+    background-color: rgba(13, 55, 13, 0.8);
+    color: #f5f5dc;
+}
+
+#keys {
+    background-color: rgba(13, 55, 13, 0.8);
+    color: #f5f5dc;
+}
+
+.titles {
+    color: #001f3f;
+    font-family: "Roboto Condensed", sans-serif;
+}
+
+:root {
+    background-image: url("http://img.maxofs2d.net/source/tf_loghouse_alpine_1920.jpg"); /* https://steamcommunity.com/sharedfiles/filedetails/?id=90746012 credit*/
+    background-attachment: scroll;
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+}
